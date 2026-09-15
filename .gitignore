@@ -1,0 +1,13 @@
+# Java / Spring Boot
+backend/target/
+
+# MySQL configuration - contains database password
+backend/src/main/resources/application.properties
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+.env.*
